@@ -10,7 +10,7 @@ InfraSIM provides the technology to simulate the interface and behavior of hardw
 This repository holds the content of InfraSIM portal.
 It's the entrance of InfraSIM public information landing page.
 
-visit rackhd.github.io to view the content
+visit infrasim.github.io to view the content
 
 
 # Power by
